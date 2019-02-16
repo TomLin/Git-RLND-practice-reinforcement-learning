@@ -1,2 +1,2 @@
 # Git-RLND-practice-reinforcement-learning
-practice repo for reinforcement learning nanodegree
+practice repo for reinforcement learning nanodegree.
